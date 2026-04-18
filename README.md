@@ -124,10 +124,7 @@ You can add an official license if needed.
 
 ## 👨‍💻 Author
 
-**Stefenis Pietersz**
-
-- GitHub: https://github.com/Stefenis
-- Portfolio: (Add your deployed link here)
+Developed by **Stefenis**
 
 ---
 
